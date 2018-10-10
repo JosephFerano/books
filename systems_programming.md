@@ -3,7 +3,7 @@
 ### What is it and how does it relate to games?
 
 > Our Systems team is in charge of a lot of stuff:
- 
+>
 > - Math Library
 > - STD Replacement Library
 > - Core Game Framework
@@ -13,14 +13,14 @@
 > - Component-Entity systems
 > - Script binding
 > - (and more)
-
+>
 > There's a lot of Windows and Linux domain knowledge here as well as a lot of knowledge of Physics, core game logic and low level memory management.
-
+>
 > Systems teams will usually be involved at least in some part in each supported OS since most of their projects sit on each OS at a pretty low
 > level.
-
+>
 > Some things that might fall under a "Systems" team that we break up into separate teams (but our Systems team still interacts with pretty heavily):
-
+>
 > - Physics
 > - Linux (dedicated server)
 > - Direct support for other OSes (iOS/Mac/Consoles/etc)
