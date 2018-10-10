@@ -29,15 +29,15 @@
  
 ## The Books
 
-[How Linux Works](http://a.co/cpe6N2e)
-
-[The Linux Programming Interface](https://www.amazon.com/dp/1593272200/)
-
-[Low Level Programming Assembly Execution Architecture](https://www.amazon.com//dp/1484224027/)
+[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)
 
 [Operating Systems Three Easy Pieces](https://www.amazon.com/dp/198508659X/)
 
-[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)
+[Low Level Programming Assembly Execution Architecture](https://www.amazon.com//dp/1484224027/)
+
+[How Linux Works](http://a.co/cpe6N2e)
+
+[The Linux Programming Interface](https://www.amazon.com/dp/1593272200/)
 
 [Retro Game Dev: C64 Edition](https://www.amazon.com/dp/0692980652/)
 
