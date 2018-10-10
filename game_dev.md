@@ -33,3 +33,7 @@
 
 ### Audio
 - [Game Audio Programming: Principles and Practices ](http://a.co/gVWaYYI)
+
+### Game Programming Gems
+
+[Blog Post with List of Contents](http://alex-simon.blogspot.com/2010/04/game-programming-gems-list-of-contents.html)
