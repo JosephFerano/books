@@ -11,12 +11,14 @@
 - [Data Structures for Game Programmers](http://a.co/h2hCUPX)
 - [Game Programming Patterns](http://a.co/5ik0PT5)
 - [Game Coding Complete](http://a.co/0UVNwhc)
+- [Game Programming Theory in C++](http://a.co/d/eIybNNw)
 
 ### Game Engines
 - [Game Engine Architecture](http://a.co/gqRCWnB)
 - [Video Game Optimization](http://a.co/20BHABk)
 - [Game Scripting Mastery](http://a.co/dw9bEGZ)
 - [Game Development Tools](http://a.co/9lIgeFw)
+- [3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics](http://a.co/d/bYu43Kt)
 
 ### Graphics
 - [Fundamentals of Computer Graphics](http://a.co/1JuDzNQ)
@@ -32,7 +34,7 @@
 - [Computer Animation, Third Edition: Algorithms and Techniques](http://a.co/2wqAgKG)
 
 ### Audio
-- [Game Audio Programming: Principles and Practices ](http://a.co/gVWaYYI)
+- [Game Audio Programming: Principles and Practices](http://a.co/gVWaYYI)
 
 ### Game Programming Gems
 
