@@ -1,4 +1,4 @@
-# Game Dev Books
+# Graphics for Games
 
 ### Math &amp; Physics
 - [No bullshit guide to math and physics](http://a.co/2nH7xYe)
